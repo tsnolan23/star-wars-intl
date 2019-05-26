@@ -1,0 +1,22 @@
+.MovieCard {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  border-radius: 5px;
+  padding: 16px;
+}
+
+.MovieCard + .MovieCard {
+  margin-top: 16px;
+}
+
+.MovieCard__Title {
+  margin: 0 0 8px 0;
+}
+
+.MovieCard__Meta {
+  color: #ccc;
+  font-size: 12px;
+  margin-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
