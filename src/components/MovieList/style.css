@@ -1,7 +1,13 @@
-.MovieList__Title {
-  color: #4886fe;
+.MovieList {
+  padding: 48px 0;
 }
 
-.MovieList__Movies {
-  margin-bottom: 48px;
+.MovieList__Header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.MovieList__Title {
+  color: #4886fe;
 }
