@@ -4,6 +4,8 @@ A simple app that uses the Star Wars GraphQL service to render a list of movies 
 
 ![New Project](https://user-images.githubusercontent.com/12575994/58376511-77696900-7f32-11e9-8cf8-728e9267fe60.png)
 
+---
+
 ### Local Setup
 
 1. Clone this repository with `git clone https://github.com/tsnolan23/star-wars-intl.git`
